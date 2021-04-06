@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=foostan&count_private=true&show_icons=true&theme=onedark" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foostan&theme=onedark" />
-</a>
+<span>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=foostan&count_private=true&show_icons=true&&theme=onedark" />
+</span>
+<span>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foostan&theme=onedark&layout=compact" />
+</span>
 
 ### 🏆 GitHub Profile Trophy
 
